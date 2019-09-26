@@ -1,3 +1,3 @@
 ## DIFF - Digital Passport
 
-[Bekijk de instructie](https://mediacollegeamsterdam.github.io/digital-passport-md-gd/docs)
+[Bekijk de instructie](https://mediacollegeamsterdam.github.io/digital-passport-md-gd/docs/index.md)

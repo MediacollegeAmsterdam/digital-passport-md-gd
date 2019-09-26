@@ -3,7 +3,7 @@
 Het blog dat je wekelijks bijhoudt over de DIFF lessen, workshops en activiteiten.  
 Elke student heeft toegang tot zijn eigen Digital Passport (Wordpress blog) op Ma Cloud (de servers van het Mediacollege)
 
-[Digital Passport maken / instructies](docs/Howto.md)  
+[Digital Passport maken / instructies](docs/howto.md)  
 
 ---
 
@@ -22,4 +22,4 @@ Zoals je hebt geleerd bij Nederlands is het belangrijk dat je verhaal in ieder g
 
 Zorg er voor dat je dit elke week bijhoudt en lever in ieder geval zo snel mogelijk via Magister de link in naar je Digital Passport zodat de docenten de voortgang kunnen zien.
 
-[Digital Passport maken / instructies](docs/Howto.md)
+[Digital Passport maken / instructies](docs/howto.md)
