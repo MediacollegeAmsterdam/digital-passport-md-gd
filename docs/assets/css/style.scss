@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  linear-gradient(120deg, #ff1293, #000000);
+  background-image: linear-gradient(120deg, #ff1293, #000000);
 }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
