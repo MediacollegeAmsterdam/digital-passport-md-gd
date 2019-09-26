@@ -47,7 +47,7 @@ Ga naar `Instellingen -> Lezen`. Selecteer de optie `Een statische pagina`"` en 
 ![Homepage instellen](images/homepage-kiezen.jpg) 
 
 ## De titel van je blog aanpassen
-Standaard heet je blog iets van: '12345's Blog`, dat is niet zo mooi.
+Standaard heet je blog iets van: '12345's Blog', dat is niet zo mooi.  
 Ga naar `Instellingen -> Algemeen`  en verander de titel
 
 ![Blog titel](images/blog-titel.jpg) 
