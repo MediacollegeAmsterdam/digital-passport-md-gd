@@ -1,7 +1,9 @@
 ## DIFF - Digital Passport
 
 Het blog dat je wekelijks bijhoudt over de DIFF lessen, workshops en activiteiten.  
-Elke student heeft toegang tot zijn eigen Digital Passport (Wordpress blog) op Ma Cloud (de servers van het Mediacollege)  
+Elke student heeft toegang tot zijn eigen Digital Passport (Wordpress blog) op Ma Cloud (de servers van het Mediacollege)
+
+[Digital Passport maken / instructies](docs/Howto.md)  
 ---
 
 ### Wat is het Digital Passport?
