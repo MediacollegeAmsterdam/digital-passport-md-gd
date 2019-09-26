@@ -42,12 +42,20 @@ Bekijk je wijzigingen door naar je blog te gaan:
 
 ## Je pagina als homepage instellen
 
-Ga naar `Instellingen -> Lezen`. Selecteer de optie "Een statische pagina" en kies de pagina die je als homepage wilt.
+Ga naar `Instellingen -> Lezen`. Selecteer de optie `Een statische pagina`"` en kies de pagina die je als homepage wilt.
 
 ![Homepage instellen](images/homepage-kiezen.jpg) 
 
 ## De titel van je blog aanpassen
 Standaard heet je blog iets van: '12345's Blog`, dat is niet zo mooi.
-Ga naar Instellingen -> Algemeen  en verander de titel
+Ga naar `Instellingen -> Algemeen`  en verander de titel
 
 ![Blog titel](images/blog-titel.jpg) 
+![Blog titel](images/site-titel.jpg)
+
+## Andere vormgeving kiezen
+Je kunt een andere vormgeving kiezen. Ga naar `Weergave -> Thema's` en activeer een ander thema
+
+![Thema kiezen 01](images/thema-kiezen-01.jpg) 
+![Thema kiezen 02](images/thema-kiezen-02.jpg)
+ 
