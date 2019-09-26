@@ -2,7 +2,7 @@
 
 ### Heb je nog geen blog?
 
-Ga naar http://sites.ma-cloud.nl/wp-login.php en log in met je *studentnummer* en *wachtwoord*. Er wordt automatisch een Wordpress blog voor je aangemaakt (je Digital Passport)
+Ga naar [http://sites.ma-cloud.nl/wp-login.php](http://sites.ma-cloud.nl/wp-login.php) en log in met je *studentnummer* en *wachtwoord*. Er wordt automatisch een Wordpress blog voor je aangemaakt (je Digital Passport)
   
 Het adres van je blog is: `http://<studentnummer>.sites.ma-cloud.nl`
 
@@ -17,13 +17,15 @@ Hier kun je pagina's toevoegen, bewerken e.d.
 
 ---
 
-Klik op `Dashboard` en ga naar `Pagina's` in het linker menu
+Klik op `Dashboard` en ga naar `Alle pagina's` in het linker menu
 
 ![Pagina's](images/menu-paginas-01.jpg)
 
+Klik op `Bewerken` om de pagina aan te passen.
+
 ---
 
-In deze pagina kun je nu onder elkaar voor elke week en elke activiteit een korte verslag schrijven.
+Dit wordt de pagina waar je je verslag schrijft. Schrijf voor elke DIFF activiteit, workshop of les een verslagje.  
 Maak gebruik van koppen en subkoppen om het netjes en overzichtelijk op te maken.
 
 ![Pagina bewerken](images/page-editor-01.jpg)
